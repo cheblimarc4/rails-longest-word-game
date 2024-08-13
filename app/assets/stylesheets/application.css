@@ -16,10 +16,13 @@
 
 p{
   display: inline;
-  color: blue;
+  color: white;
   font-weight: bold;
-
-  padding: 70px;
+  background-color: blue;
+  padding: 50px;
+  border: 1px solid white;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 .block{
   margin: 25px;
@@ -29,5 +32,5 @@ p{
   margin-top: 20px;
 }
 .form{
-  margin: 20px;
+  margin: 40px;
 }
